@@ -5,10 +5,11 @@ A simple Chocolate house management application for a fictional chocolate house.
 - docker 
 ## Features
 
-- Add chocolate flavours.
+- Add seasonal chocolate flavours.
 - Add ingredients and quantities.
 - Submit customer suggestions for new flavors along with allergy concerns.
 - Display all flavours, ingredients, and suggestions on demand.
+- Provide you real-time graph for statistical analysis
 
 # Follow these steps
 
@@ -32,6 +33,11 @@ A simple Chocolate house management application for a fictional chocolate house.
 5.Run the Container
 
     docker run -p 8501:8501 chocolate-house-app
+    
+# Screenshot of the Application
+
+![Uploading image.png…]()
+
 
    
 
