@@ -26,11 +26,13 @@ A simple Chocolate house management application for a fictional chocolate house.
     venv\Scripts\activate
 
 4.Build the Docker Image
-
     docker build -t chocolate-house-app .
-5. Run the Container
+5.Run the Container
 
     docker run -p 8501:8501 chocolate-house-app
+
+   
+
 
 
    
