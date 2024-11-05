@@ -2,7 +2,10 @@
 A simple Chocolate house management application for a fictional chocolate house.
 # Prerequisites
 - python 3.9+
-- docker 
+- docker
+- Streamlit
+- Streamlit-option-menu
+  
 ## Features
 
 - Add seasonal chocolate flavours.
