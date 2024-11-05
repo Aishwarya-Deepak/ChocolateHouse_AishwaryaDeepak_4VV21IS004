@@ -19,13 +19,11 @@ A simple Chocolate house management application for a fictional chocolate house.
     pip install -r requirements.txt
 3.Create a virtual environment
 
-# Navigate tp your project repo and type the follwing command
+    # Navigate to your project repo and type the following command
+    python3 -m venv venv
 
-  python3 -m venv venv
-
-# Activate the virtual environment
-
-  venv\Scripts\activate
+    # Activate the virtual environment
+    venv\Scripts\activate
 
 4.Build the Docker Image
 
