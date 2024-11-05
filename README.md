@@ -16,7 +16,7 @@ A simple Chocolate house management application for a fictional chocolate house.
 
 2.Install the requirements from the requirements.txt file
   ```
-    pip install -r requirements.txt
+    pip install -r requirements.txt```
 
 3.Create a virtual environment
 
